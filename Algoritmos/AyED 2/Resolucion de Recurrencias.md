@@ -8,5 +8,3 @@ Una funcion es suave si:
 	- 
 	- si es suave puedo asumir que (n/2) = (piso n/2) = (techo n/2)
 - Funciones no suaves:
-	![[Pasted image 20250601181357.png]]
-- 
