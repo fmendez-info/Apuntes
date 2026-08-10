@@ -1,0 +1,3 @@
+- exec: transforma un proceso en otro
+- fork: clona un proceso
+- wait: 
