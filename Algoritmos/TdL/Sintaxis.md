@@ -19,3 +19,5 @@ Semantica: sentido
 
 ## P4 palabras de un alfabeto
 daod un alfabeto E se define como
+
+## P6
