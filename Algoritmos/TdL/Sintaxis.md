@@ -21,3 +21,10 @@ Semantica: sentido
 daod un alfabeto E se define como
 
 ## P6
+
+
+## P7
+GLC es una tupla (N,T,P,S)
+- N conjunto de no terminales
+- T conjunto de terminales
+- S d
