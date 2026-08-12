@@ -28,3 +28,15 @@ GLC es una tupla (N,T,P,S)
 - N conjunto de no terminales
 - T conjunto de terminales
 - S d
+
+## P11 Arbol de parseo
+un arbol es una derivacion o arbol de parseo 
+
+
+G = ( {E,Ep,V,I,D} ) , {+,-,*,/,}
+
+Arbol de parseo de :
+1+x
+
+
+69*x-z
